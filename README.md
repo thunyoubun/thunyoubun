@@ -1,6 +1,6 @@
-[![OwOHamper's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunyoubun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![OwOHamper's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunyoubun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/50a82480-1b01-4eb9-983b-8a2a661d7f0a.svg)](https://wakatime.com/@50a82480-1b01-4eb9-983b-8a2a661d7f0a)
+[![thunyoubun's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunyoubun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![thunyoubun's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunyoubun&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 - 👋 Hi, I’m Switch
 - 👀 I’m interested in ...
