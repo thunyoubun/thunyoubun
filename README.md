@@ -1,6 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
-   <img align="left" alt="ed-smile" height="30" width="40" style="border-radius:50px;"
-        src="https://drive.google.com/uc?export=view&id=1KhE2jRjDn7_XsdH25GlrXmK6CK9gtfcb">
+
     <h1 align="center" style="border-style: none;">Switch</h1>
 </div>
 
