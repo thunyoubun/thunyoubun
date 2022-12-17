@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: center; align-items: center;" align="center">
+   
+    <h1 align="center" style="border-style: none;">Switch</h1>
+</div>
+
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=thunyoubun&theme=blueberry" />
  </div>
