@@ -1,5 +1,9 @@
 
-[![thunyoubun's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunyoubun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thunyoubun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunyoubun&layout=compact&theme=tokyonight" />
+ </div>
+ 
 [![thunyoubun's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunyoubun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  
