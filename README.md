@@ -1,5 +1,4 @@
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
-
     <h1 align="center" style="border-style: none;">Switch</h1>
 </div>
 
