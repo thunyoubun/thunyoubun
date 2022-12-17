@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=thunyoubun&theme=sea)](https://git.io/streak-stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=thunyoubun&theme=sea" />
  </div>
  
 <div align="center">
