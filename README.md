@@ -1,9 +1,9 @@
-<div align="center">
+
 [![thunyoubun's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunyoubun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![thunyoubun's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunyoubun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  
- <div align="center">
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thunyoubun&theme=tokyonight)](https://git.io/streak-stats)
 
 
