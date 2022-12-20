@@ -11,10 +11,10 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunyoubun&layout=compact&theme=blueberry" />
  </div>
  
-
+<div>
 <img align="left" src="https://komarev.com/ghpvc/?username=thunyoubun&label=Profile%20views&color=246BF9" alt="thunyoubun"/>
 <img align="right" src="https://img.shields.io/github/followers/thunyoubun?color=246BF9&label=Followers" alt="thunyoubun" /> 
-
+</div>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/thunyoubun/thunyoubun/output/github-contribution-grid-snake.svg" />
